@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582734579 source:c:\users\xikin\desktop\fatec\recusaoex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1582810390 source:c:\users\xikin\desktop\fatec\lista1(recursao)\recusaoex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
